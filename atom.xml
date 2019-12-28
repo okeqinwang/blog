@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>PrayDaily</title>
+  <title>快乐咸鱼每一天</title>
   <icon>https://www.gravatar.com/avatar/9bb024ca1a7cafe692cf1f9e3b4b6eba</icon>
   
   <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="https://praydaily.net/blog/"/>
-  <updated>2019-12-28T08:07:53.295Z</updated>
-  <id>https://praydaily.net/blog/</id>
+  <link href="https://abcdai.org/blog/"/>
+  <updated>2019-12-28T15:42:30.875Z</updated>
+  <id>https://abcdai.org/blog/</id>
   
   <author>
     <name>Mark</name>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Types of Prayer,Supplication,Intercession,Agreement,Faith,Praise</title>
-    <link href="https://praydaily.net/blog/2019/12/27/types-of-prayer/"/>
-    <id>https://praydaily.net/blog/2019/12/27/types-of-prayer/</id>
+    <title>insbot</title>
+    <link href="https://abcdai.org/blog/2019/12/27/insbot/"/>
+    <id>https://abcdai.org/blog/2019/12/27/insbot/</id>
     <published>2019-12-26T16:00:00.000Z</published>
-    <updated>2019-12-28T08:07:53.295Z</updated>
+    <updated>2019-12-28T15:42:30.875Z</updated>
     
     <summary type="html">
     
@@ -29,48 +29,15 @@
       
         
         
-          &lt;p&gt;The Bible talks about different types of prayer. Knowing what type of prayer to pray and when to pray it is very important to our prayer
+          &lt;h2 id=&quot;0x1-request-to-auth&quot;&gt;&lt;a href=&quot;#0x1-request-to-auth&quot; class=&quot;headerlink&quot; title=&quot;0x1 request to auth&quot;&gt;&lt;/a&gt;0x1 request to
         
       
     
     </summary>
     
     
-      <category term="skill" scheme="https://praydaily.net/blog/categories/skill/"/>
     
-    
-      <category term="praise" scheme="https://praydaily.net/blog/tags/praise/"/>
-    
-      <category term="contemplation" scheme="https://praydaily.net/blog/tags/contemplation/"/>
-    
-      <category term="thanksgiving" scheme="https://praydaily.net/blog/tags/thanksgiving/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>How to Pray</title>
-    <link href="https://praydaily.net/blog/2019/12/25/how-to-pray/"/>
-    <id>https://praydaily.net/blog/2019/12/25/how-to-pray/</id>
-    <published>2019-12-24T16:00:00.000Z</published>
-    <updated>2019-12-28T07:49:39.161Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Time spent with God is never wasted. Prayer should be as much a part of our daily routine as eating, drinking and sleeping. Spending
-        
-      
-    
-    </summary>
-    
-    
-      <category term="skill" scheme="https://praydaily.net/blog/categories/skill/"/>
-    
-    
-      <category term="skill" scheme="https://praydaily.net/blog/tags/skill/"/>
+      <category term="me" scheme="https://abcdai.org/blog/tags/me/"/>
     
   </entry>
   
